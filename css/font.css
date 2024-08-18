@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "BYekan";
+  src: url(../assets/fonts/BYekan.woff) format("woff"),
+    url(../assets/fonts/BYekan.eot), url(/assets/fonts/BYekan.ttf);
+}
+
+body,
+button,
+i {
+  font-family: "Times New Roman", Times, serif;
+}
